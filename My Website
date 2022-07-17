@@ -7,7 +7,7 @@
     </head>
     <body>
         <h1>Aditya Raj Sahoo</h1>
-        <h2><i>The unknown</i></h2>
+        <h2><i>The Mathemagician</i></h2>
         <br><b>Hobbies</b>: Badminton
         <br><b>Favorite subject</b>: Math And Science
         <br><b>About myself</b>:Hi everyone, Aditya here. as you know I am in class 8B and 
